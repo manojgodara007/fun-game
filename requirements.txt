@@ -1,1 +1,6 @@
-pip install fastapi uvicorn sqlalchemy passlib bcrypt python-jose
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
